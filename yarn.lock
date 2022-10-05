@@ -3084,10 +3084,10 @@ through@~2.3.4:
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=
 
-tingle.js@^0.13.2:
-  version "0.13.2"
-  resolved "https://registry.yarnpkg.com/tingle.js/-/tingle.js-0.13.2.tgz#516e28d77c7c0160d835fa12278856be1a8a7502"
-  integrity sha512-hbfHZZ/sMo+JXM47GQb57b+0lgdy+o8D1pNINSQG98cvTyH+AusafgnklVL983nFU6psjz0wr/OcHOgF/5f/Vw==
+tingle.js@^0.16.0:
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/tingle.js/-/tingle.js-0.16.0.tgz#1ac35f91315271c47cb6bb7299d0b327ac7539ea"
+  integrity sha512-xV4F2j7+QMxDfzuX59KhxiWKeAgI/QSC8o7k9rQu8hZD8TZefMTViq7l07DIcVDb30IlAPlyFRs6SnD1Fup6hA==
 
 to-factory@^1.0.0:
   version "1.0.0"
