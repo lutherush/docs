@@ -11,7 +11,7 @@
     "publish-algolia": "node ./scripts/publish-algolia.js"
   },
   "dependencies": {
-    "atomic-algolia": "^0.3.15",
+    "atomic-algolia": "^0.3.19",
     "instantsearch.js": "^2.8.0",
     "izimodal": "^1.5.1",
     "jquery": "^3.5.0",
