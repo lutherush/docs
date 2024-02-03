@@ -21,7 +21,7 @@
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.26",
     "rancher-website-theme": "https://github.com/rancherlabs/website-theme.git",
-    "request": "^2.87.0",
+    "request": "^2.88.2",
     "tingle.js": "^0.13.2"
   }
 }
